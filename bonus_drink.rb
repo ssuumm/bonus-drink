@@ -16,7 +16,6 @@ class BonusDrink
         end
       end
       amount
-
     end
   end
 end
